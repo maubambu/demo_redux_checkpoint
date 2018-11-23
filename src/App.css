@@ -1,0 +1,10 @@
+.users-container{
+  display: flex;
+  flex-wrap: Wrap;
+}
+
+.users-container div{
+  margin-right: 5%;
+  border: 1px solid black;
+  width: 200px;
+}
